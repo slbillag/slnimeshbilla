@@ -2,18 +2,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Queen Anya" 
+global.botname = "DINUWA USER BOT" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.author = "DINUWA"  
+global.packname = "✯DINUWA✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.headerText = "Anya by Pika" // text for header of menu         
-global.DocumentTitle = "MASTER⚔️PIKA" 
+global.waterMark = "×͜× King ✘ Dinuwa™ ✓" // Your own watermark 
+global.headerText = "Dinuwa by Dinuwa" // text for header of menu         
+global.DocumentTitle = "MASTER⚔️DINUWA" 
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['916900904828'] 
+global.ownername = "DINUWA♰𝕶𝖚𝖓"   // Owner name //        
+global.ownernumber = ['94740804536'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -32,12 +32,12 @@ global.sudo = ['916900******','917355******']  // Co - Owners //
 global.prefa = ['-','🥵','🔥']
 
 //--------Random bot name for Info section--------\\
-name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
+name16 = "𓄂⍣⃝ 🇦DInuwa 𓆩×͜×𓆪ꪾ️"
 name17 = "*Λ⃝ͷ🇾Λ 𓆩×͜×𓆪ꪾ*"
 name18 = "*Λ⃝ͷʏΛ 𓆩×͜×𓆪ꪾ*"
 
 //--------Random footer message-----------\\
-footer1 = `𓄂⍣⃝🇦𝚗𝚢𝚊ㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
+footer1 = `𓄂⍣⃝🇦Dinuwaㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
 footer2 = `Λ⃝ͷʏΛㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
 
 //--------Left message "Nikal msg"--------\\
